@@ -6,6 +6,9 @@ import java.util.LinkedList;
 
 public class LinkedListDemo {
     public static void main(String[] args) {
+        //TreeSet: Suppose you're developing an employee management system where you need to store a sorted list of
+        // employee IDs. You can use a TreeSet to automatically maintain the employee IDs in sorted order.
+
         PlayList userPlaylist = new PlayList();
         userPlaylist.addSong("Shape of You");
         userPlaylist.addSong("Believer");
