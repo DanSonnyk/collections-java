@@ -16,6 +16,7 @@ public class QuickSortDemo {
         int r = end_pos;
 
         while (l <= r){
+
             while (v[l] < pivot) l++;
             while (v[r] > pivot) r--;
 
