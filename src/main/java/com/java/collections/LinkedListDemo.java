@@ -1,6 +1,6 @@
-package com.java.mostwanted.usecases.collections;
+package com.java.collections;
 
-import com.java.mostwanted.usecases.collections.utils.PlayList;
+import com.java.collections.utils.PlayList;
 
 import java.util.LinkedList;
 

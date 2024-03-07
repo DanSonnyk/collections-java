@@ -1,6 +1,7 @@
-package com.java.mostwanted.usecases.collections;
+package com.java.collections;
 
-import com.java.mostwanted.usecases.collections.utils.Wishlist;
+
+import com.java.collections.utils.Wishlist;
 
 import java.util.HashSet;
 

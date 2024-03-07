@@ -1,4 +1,4 @@
-package com.java.mostwanted.usecases.collections;
+package com.java.collections;
 
 import java.util.TreeSet;
 

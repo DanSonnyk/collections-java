@@ -1,6 +1,6 @@
-package com.java.mostwanted.usecases.collections;
+package com.java.collections;
 
-import com.java.mostwanted.usecases.collections.utils.Post;
+import com.java.collections.utils.Post;
 
 import java.util.ArrayList;
 

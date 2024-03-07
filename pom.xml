@@ -11,7 +11,7 @@
 	<groupId>com.java</groupId>
 	<artifactId>most-wanted</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>most-wanted</name>
+	<name>collections-java</name>
 	<description>All tricks that i need to remember</description>
 	<properties>
 		<java.version>21</java.version>

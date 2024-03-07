@@ -1,4 +1,4 @@
-package com.java.mostwanted.usecases.collections.utils;
+package com.java.collections.utils;
 
 import java.util.ArrayList;
 
