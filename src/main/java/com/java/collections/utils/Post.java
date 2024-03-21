@@ -1,9 +1,10 @@
 package com.java.collections.utils;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Post {
-    private ArrayList<String> comments;
+    private List<String> comments;
 
     public Post() {
         this.comments = new ArrayList<>();
@@ -13,7 +14,7 @@ public class Post {
         comments.add(comment);
     }
 
-    public ArrayList<String> getComments() {
+    public List<String> getComments() {
         return comments;
     }
 }

@@ -2,7 +2,7 @@ package com.java.collections;
 
 import com.java.collections.utils.Post;
 
-import java.util.ArrayList;
+import java.util.List;
 
 
 public class ArrayListDemo {
@@ -21,7 +21,7 @@ public class ArrayListDemo {
         post1.addComment("Need improve your speaking!");
 
         // Retrieving comments for post1
-        ArrayList<String> commentsForPost1 = post1.getComments();
+        List<String> commentsForPost1 = post1.getComments();
         for (String comment : commentsForPost1) {
             System.out.println(comment);
         }
